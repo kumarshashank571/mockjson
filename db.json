@@ -1,6 +1,5 @@
 {
-
-  "data": [
+"posts": [
     {
       "id": "1",
       "name": "Roger Federer",
@@ -57,5 +56,8 @@
       "city": "Belgrade",
       "imgURL": "https://demonuts.com/Demonuts/SampleImages/iva.jpg"
     }
-  ]
+  ],
+"profile" : {
+   "name" : "Profile 1"
+ }
 }
