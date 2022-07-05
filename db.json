@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": "F1",
-      "souce": "Delhi",
+      "source": "Delhi",
       "destination": "Mumbai",
       "date": "1st Aug",
       "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
