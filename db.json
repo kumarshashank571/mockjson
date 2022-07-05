@@ -1,63 +1,63 @@
 {
-"posts": [
+  "posts": [
     {
-      "id": "1",
-      "name": "Roger Federer",
-      "country": "Switzerland",
-      "city": "Basel",
-      "imgURL": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg"
+      "id": "F1",
+      "souce": "Delhi",
+      "destination": "Mumbai",
+      "date": "1st Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     },
     {
-      "id": "2",
-      "name": "Rafael Nadal",
-      "country": "Spain",
-      "city": "Madrid",
-      "imgURL": "https://demonuts.com/Demonuts/SampleImages/nadal.jpg"
+      "id": "F2",
+      "source": "Bangalore",
+      "destination": "Pune",
+      "date": "2nd Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     },
     {
-      "id": "3",
-      "name": "Novak Djokovic",
-      "country": "Serbia",
-      "city": "Monaco",
-      "imgURL": "https://demonuts.com/Demonuts/SampleImages/djoko.jpg"
+      "id": "F3",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "date": "1st Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     },
     {
-      "id": "4",
-      "name": "Andy Murray",
-      "country": "United Kingdom",
-      "city": "London",
-      "imgURL": "https://demonuts.com/Demonuts/SampleImages/murray.jpg"
+      "id": "F4",
+      "source": "Pune",
+      "destination": "Kolkata",
+      "date": "3rd Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     },
     {
-      "id": "5",
-      "name": "Maria Sharapova",
-      "country": "Russia",
-      "city": "Moscow",
-      "imgURL": "https://demonuts.com/Demonuts/SampleImages/shara.jpg"
+      "id": "F5",
+      "source": "Mumbai",
+      "destination": "Pune",
+      "date": "4th Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     },
     {
-      "id": "6",
-      "name": "Caroline Wozniacki",
-      "country": "Denmark",
-      "city": "Odense",
-      "imgURL": "https://demonuts.com/Demonuts/SampleImages/woz.jpg"
+      "id": "F6",
+      "source": "Kolkata",
+      "destination": "Hyderabad",
+      "date": "3rd Aug",
+      "imgURL": "https://previews.123rf.com/images/captainvector/captainvector2204/captainvector220486724/185314926-airplane.jpg"
     },
     {
-      "id": "7",
-      "name": "Eugenie Bouchard",
-      "country": "Canada",
-      "city": " Montreal",
+      "id": "F7",
+      "source": "Hyderabad",
+      "destination": "Bangalore",
+      "date": " 2nd Aug",
       "imgURL": "https://demonuts.com/Demonuts/SampleImages/bou.png"
     },
     {
-      "id": "8",
-      "name": "Ana Ivanovic",
-      "country": "Serbia",
-      "city": "Belgrade",
+      "id": "F8",
+      "source": "Kolkata",
+      "destination": "Delhi",
+      "date": "1st Aug",
       "imgURL": "https://demonuts.com/Demonuts/SampleImages/iva.jpg"
     }
   ],
-"profile" : {
-   "name" : "Profile 1"
- }
+  "profile": {
+    "name": "Profile 1"
+  }
 }
